@@ -1,0 +1,4 @@
+baseURL = 'https://dixneufcentquatrevingtdouze.github.io'
+languageCode = 'fr-FR'
+title = '1992'
+theme = "ananke"
