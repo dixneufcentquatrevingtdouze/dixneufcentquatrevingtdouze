@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Zemmour non elu"
+title:  "Zemmour non élu"
 date:   2021-10-20 23:11:09 +0200
 categories: twitter
 ---
 
 La France n'a pas dit son dernier mot !
 
-Les forces opposees et leur grand pouvoir de corruption vont se dechainer.
+Les forces opposées et leur grand pouvoir de corruption vont se déchaîner.
 
-Sa candidature et les debats a venir auront transforme ce pays.
+Sa candidature et les débats a venir auront transforme ce pays.
 
 Le bon sens et la raison auront marque des points.
 
-Les reelles opositions auront compris qu'il y a un echo dans le corps electorle.
+Les réelles oppositions auront compris qu'il y a un écho dans le corps électorale.
 
-Et le revolution numerique et donc informationelle fera le reste.
+Et le révolution numérique et donc informationnelle fera le reste.
 
-L'education nationale n'est t'il pas le premier budget de l'etat ?
+L'éducation nationale n'est t'il pas le premier budget de l'état ?
 
 Le monde de Huxley n'est pas pour demain !

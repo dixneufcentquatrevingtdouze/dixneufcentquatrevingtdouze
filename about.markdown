@@ -4,7 +4,7 @@ title: A propos
 permalink: /a_propos/
 ---
 
-280 caracteres, vraiement ?
+280 caracteres, vraiment ?
 
 Fait avec :
 [jekyll][jekyll-organization] /

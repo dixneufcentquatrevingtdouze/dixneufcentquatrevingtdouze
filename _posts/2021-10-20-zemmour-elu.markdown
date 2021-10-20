@@ -1,32 +1,32 @@
 ---
 layout: post
-title:  "Zemmour elu"
+title:  "Zemmour élu"
 date:   2021-10-20 23:11:09 +0200
 categories: twitter
 ---
 
 La France n'a pas dit son dernier mot !
 
-Les forces opposees et leur grand pouvoir de corruption vont se dechainer.
+Les forces opposées et leur grand pouvoir de corruption vont se déchaîner.
 
-Quelle va etre la position de l'administration ? Va t'on assister aux meme
+Quelle va être la position de l'administration ? Va t'ont assister aux même
 manoeuvres qu'aux eua ?
 
-D'autres forces vont s'eveiller. Parmis elles, la ribambelle de connards qui
-vont se sentir legitimes pour s'en prendre a TOUS les etrangers qu'ils
+D'autres forces vont s'éveiller. Parmi elles, la ribambelle de connards qui
+vont se sentir légitimes pour s'en prendre a TOUS les étrangers qu'ils
 croiseront.
 
-Si l'esprit de la France est bien de retour, alors ceux la seront severement
+Si l'esprit de la France est bien de retour, alors ceux la seront sévèrement
 punis. 
 
-Cette election va pose pas mal de problemes pratiques. 
+Cette élection va pose pas mal de problèmes pratiques. 
 
-Parmis ceux la :
+Parmi ceux la :
 
-  - le SI (Systeme d'Information) de la defense natianale;
+  - le SI (Système d'Information) de la défense nationale;
   - ...
   
-Apres la revolution francaise (non terrminee), la France va encore faire
-transpirer les puissances illegitimes de ce monde.
+Après la révolution française (non terminée), la France va encore faire
+transpirer les puissances illégitimes de ce monde.
 
 
