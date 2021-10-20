@@ -6,6 +6,10 @@ permalink: /a_propos/
 
 280 caracteres, vraiment ?
 
+Pourquoi 1992 :
+
+https://www.youtube.com/watch?v=_oN-DxnGPZQ
+
 Fait avec :
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
