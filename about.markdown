@@ -8,7 +8,7 @@ permalink: /a_propos/
 
 Pourquoi 1992 :
 
-https://www.youtube.com/watch?v=_oN-DxnGPZQ
+[Discours de Ph. Seguin](https://www.youtube.com/watch?v=_oN-DxnGPZQ "Discours de Ph. Seguin")
 
 Fait avec :
 [jekyll][jekyll-organization] /
